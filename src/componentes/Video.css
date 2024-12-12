@@ -1,0 +1,18 @@
+.cont1{
+    display: flex;
+    padding: 55px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+.boton{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+}
+.bot:hover{
+    color: tomato;
+}
+.vidi a:hover{
+    color: tomato;
+}

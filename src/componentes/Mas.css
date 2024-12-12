@@ -1,0 +1,63 @@
+.cont2{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    padding: 3rem;
+    gap: 20px;
+}
+.portada img{
+    object-fit: cover;
+    border-radius: 100px;
+}
+.cent{
+    width: 500px;
+    height: 50px;
+    background-color: aqua;
+    padding: 5px;
+    
+}
+.cent img{
+    height: 40px;
+}
+.ic{
+    padding-left: 30px;
+    height: 42px;
+}
+.caja2{
+    display: flex;
+    gap: 6rem;
+}
+.caja3{
+    display: flex;
+    gap: 7.5rem;
+
+}
+.caja4{
+    display: flex;
+    gap: 9rem;
+}
+.caja5{
+    display: flex;
+    gap: 6rem;
+}
+.caja6{
+    display: flex;
+    gap: 7.5rem;
+}
+.caja7{
+    display: flex;
+    gap: 10rem;
+}
+.caja8{
+    display: flex;
+    gap: 9rem;
+}
+.caja9{
+    display:flex;
+    gap: 8rem;
+}
+
+

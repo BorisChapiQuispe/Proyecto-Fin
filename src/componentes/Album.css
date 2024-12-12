@@ -1,0 +1,36 @@
+.padre{
+    background-color: black;
+    width: 97vw;
+}
+.menu{
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: red;
+    padding: 15px;
+    padding-left: 70px;
+}
+.menu .nav-link {
+    display: inline-block;   
+    padding: 10px 20px;      
+    margin: 5px;             
+    background-color: black;
+    text-align: center;    
+    border-radius: 4px;      
+    transition: background-color 0.3s ease, color 0.3s ease;
+    color: white;
+  }
+.menu .nav-link:hover{
+
+    background-color: white;
+    color: black;
+}
+.albums{
+    display: flex;
+    padding: 30px;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.papa{
+    display: flex;
+}

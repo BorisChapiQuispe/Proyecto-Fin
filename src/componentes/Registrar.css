@@ -1,0 +1,12 @@
+
+.form{
+    display: flex;
+    height: 90vh;
+    background-color: rgb(16, 16, 87);
+    justify-content: center;
+    align-items: center;
+}
+.form1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 600px;
+}
